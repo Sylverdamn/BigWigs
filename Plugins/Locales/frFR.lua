@@ -187,9 +187,9 @@ L.blockTalkingHeadRaids = "Raids"
 L.blockTalkingHeadTimewalking = "Marcheurs du temps (donjons & raids)"
 L.blockTalkingHeadScenarios = "Scénarios"
 
-L.subzone_grand_bazaar = "Le Grand bazar" -- Battle of Dazar'alor raid (Battle for Azeroth)
-L.subzone_port_of_zandalar = "Port de Zandalar" -- Battle of Dazar'alor raid (Battle for Azeroth)
-L.subzone_eastern_transept = "Transept est" -- Auchindoun dungeon (Warlords of Draenor)
+L.subzone_grand_bazaar = "Le Grand bazar"
+L.subzone_port_of_zandalar = "Port de Zandalar"
+L.subzone_eastern_transept = "Transept est"
 
 -----------------------------------------------------------------------
 -- Colors.lua
